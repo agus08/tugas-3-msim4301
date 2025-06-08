@@ -1,0 +1,4 @@
+===== STRUK PENYEWAAN =====
+Mobil - Avanza - Rp300000.0
+Motor - Aerock - Rp100000.0
+Total Biaya: Rp400000.0
